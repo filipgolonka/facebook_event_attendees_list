@@ -1,0 +1,20 @@
+{
+    "name": "fgolonka/facebook_event_list",
+    "authors": [
+        {
+            "name": "Filip Golonka",
+            "email": "filipgolonka@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk-v4": "^5.1",
+        "silex/silex": "^1.3",
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}

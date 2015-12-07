@@ -1,0 +1,10 @@
+<?php
+
+return [
+    'facebook' => [
+        'app_id' => 'YOUR_APP_ID',
+        'app_secret' => 'YOUR_APP_SECRET',
+        'default_graph_version' => 'v2.5',
+    ],
+    'event_id' => 'EVENT_ID',
+];
